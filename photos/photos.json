@@ -1,0 +1,26 @@
+[
+  {
+    "title": "json_sample1",
+    "album_id": 1,
+    "width": 600,
+    "height": 600,
+    "color": "24f355",
+    "url": "files/4.png"
+  },
+  {
+    "title": "json_sample2",
+    "album_id": 1,
+    "width": 600,
+    "height": 600,
+    "color": "24f355",
+    "url": "files/3.png"
+  },
+  {
+    "title": "json_sample3",
+    "album_id": 1,
+    "width": 600,
+    "height": 600,
+    "color": "24f355",
+    "url": "files/7.png"
+  }
+]
